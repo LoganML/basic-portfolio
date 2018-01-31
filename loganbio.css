@@ -1,0 +1,52 @@
+.bodywrapper{
+	width: 650px;
+}
+
+
+body{
+	text-align: right;
+	font-weight: bold;
+	font-size: 15px;
+	background-image: url("dust_scratches.png");
+	height: 200px;
+	position: relative;
+	border: 0;
+	float: left;
+	
+	
+}
+#sidebar{
+	float:left;
+}
+
+
+
+}
+.blue{
+	color: blue;
+	font-family: "Palatino Linotype" Palatino, serif;
+}
+.title{
+	color: white;
+	font-size: 35;
+	font-family: "Georgia", Times, Times New Roman, serif;
+	background-color:teal;
+	position: fixed;
+	top: 0;
+	margin-bottom: 10px;
+	padding: 10px;
+	margin: 0;
+	text-align: center;
+	
+}
+
+
+
+
+.connect{
+	float: right;
+	top: 0;
+	margin: 10px;
+	position: relative;
+	
+}
