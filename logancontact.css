@@ -27,4 +27,10 @@ body {
     border-style: inset;
     border-left: 6px;
     border-radius: 5px;
+    background-color:gray;
+    
+    }
+
+.title{
+    background-color: teal;
 }
